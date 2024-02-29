@@ -34,7 +34,7 @@ function App() {
             <TabButton onSelect = {handleSelect}>Props</TabButton>
             <TabButton onSelect = {handleSelect}>State</TabButton>
           </menu>
-          
+          Dynamic Content
         </section>
         <h2>Time to get started!</h2>
       </main>
